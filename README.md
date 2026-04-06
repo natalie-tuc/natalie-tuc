@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi i'm Natalie 👋
+I'm a senior in higschool 
+I'm majoring in music industry
+I love going to concerts 
 
 <!--
 **natalie-tuc/natalie-tuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
