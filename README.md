@@ -1,5 +1,5 @@
 ## Hi i'm Natalie 👋
-I'm a senior in higschool who will be majoring in music industry and one of my favorite thing to do is going to concerts. 
+I'm a senior in higschool who will be majoring in music industry and one of my favorite things to do is going to concerts. 
 
 <!--
 **natalie-tuc/natalie-tuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
