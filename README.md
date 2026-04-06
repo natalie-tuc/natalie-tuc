@@ -1,6 +1,6 @@
 ## Hi i'm Natalie 👋
-I'm a senior in higschool 
-I'm majoring in music industry
+I'm a senior in higschool. 
+I'm majoring in music industry.
 I love going to concerts 
 
 <!--
